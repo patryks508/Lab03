@@ -1,1 +1,0 @@
-# Laboratorium nr. 3

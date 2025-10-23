@@ -1,1 +1,1 @@
-Laboratorium nr. 2 javascript
+Laboratorium nr. 3
